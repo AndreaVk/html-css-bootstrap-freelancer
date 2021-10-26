@@ -1,0 +1,32 @@
+nav {
+    height: 60px;
+}
+
+.debug .col-8{
+    background-color: red;
+    border: 1px solid black;
+}
+.jumbo > .row:first-of-type > div {
+    max-width: 250px;
+}
+.star_linear{
+    height: 3px;
+}
+
+.jumbo .fw-bolder{
+    margin-left: 10px;
+}
+
+.debug .jumbo{
+    background-color: aquamarine;
+}
+
+/* debug */
+.debug .box {
+    height: 90px;
+    background-color: lightgreen;
+    border: 1px solid black;
+}
+.debug #jumbotron {
+    height: 500px;
+}
